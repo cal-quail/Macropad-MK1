@@ -6,7 +6,7 @@ This repo is going to be a well... a repo for my Macropad project for HackClub b
 
 ___________________________
 
-<ins>KIcad</ins> stuff can be found in the Kicad info file here: https://github.com/cal-quail/Macropad-MK1/blob/a1abde467050ad9b54cda88399bc43ed4ce26a74/KIcad%20info
+<ins>KIcad</ins> stuff can be found in the Kicad info file here: (in progress)
 
 ____________________________
 
